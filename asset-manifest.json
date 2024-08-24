@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/use-throttle/static/css/main.1d766016.css",
+    "main.js": "/use-throttle/static/js/main.74a79a6e.js",
+    "index.html": "/use-throttle/index.html",
+    "main.1d766016.css.map": "/use-throttle/static/css/main.1d766016.css.map",
+    "main.74a79a6e.js.map": "/use-throttle/static/js/main.74a79a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d766016.css",
+    "static/js/main.74a79a6e.js"
+  ]
+}
